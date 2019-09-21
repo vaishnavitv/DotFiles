@@ -1,0 +1,5 @@
+docker
+font-hack-nerd-font
+java8
+phpstorm
+zoomus
